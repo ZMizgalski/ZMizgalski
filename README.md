@@ -29,5 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmizgalski&theme=dark" alt="zmizgalski" /></p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zmizgalski)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
