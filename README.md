@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Zbigniew Mizgalski</h1>
 <h3 align="center">A freelancer frontend developer from Poland</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=zmizgalski&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zmizgalski" alt="zmizgalski" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmizgalski&label=Profile%20views&color=006ce0&style=flat" alt="zmizgalski" /> </p>
