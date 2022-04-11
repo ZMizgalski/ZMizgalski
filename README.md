@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmizgalski&label=Profile%20views&color=006ce0&style=flat" alt="zmizgalski" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zmizgalski" alt="zmizgalski" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://zmizgalski.github.io/](https://zmizgalski.github.io/)
@@ -28,4 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zmizgalski&show_icons=true&theme=dark&locale=en" alt="zmizgalski" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmizgalski&theme=dark" alt="zmizgalski" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zmizgalski" alt="zmizgalski" /></a> </p>
 
