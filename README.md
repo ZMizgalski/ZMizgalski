@@ -29,5 +29,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmizgalski&theme=dark" alt="zmizgalski" /></p>
 
-
+(https://activity-graph.herokuapp.com/graph?username=zmizgalski&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
