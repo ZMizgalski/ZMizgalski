@@ -1,14 +1,9 @@
 <h1 align="center">Hi, I'm Zbigniew Mizgalski</h1>
 <h3 align="center">A freelancer frontend developer from Poland</h3>
-
 ## 🏆GitHub Trophies
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=zmizgalski&theme=onedark&row=10&column=10&no-frame=true&no-bg=true&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmizgalski&label=Profile%20views&color=006ce0&style=flat" alt="zmizgalski" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 # 💫About Me :
 
 - 👨‍💻 All of my projects are available at [https://zmizgalski.github.io/](https://zmizgalski.github.io/)
