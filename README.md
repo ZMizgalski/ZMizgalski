@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 💻 Spigot resources are available at [https://www.spigotmc.org/resources/authors/zibi.667650/](https://www.spigotmc.org/resources/authors/zibi.667650/)
 - 👨‍💻 All of my projects are available at [https://zmizgalski.github.io/](https://zmizgalski.github.io/)
 
 - 📫 How to reach me **zbigniew.mizgalskifullstack@gmail.com**
