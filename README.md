@@ -24,7 +24,7 @@
 
 ## 🌐Socials :
 <p align="left">
-<a href="https://linkedin.com/in/zbigniew mizgalski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zbigniew mizgalski" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zbigniew-mizgalski-951863236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zbigniew mizgalski" height="30" width="40" /></a>
 </p>
 
 ## 💻Tech Stack :
