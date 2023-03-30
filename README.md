@@ -1,7 +1,9 @@
 # 🔭 Currently working as Angular developer<br>
-⚡Feel free to visit my website -> https://zmizgalski.github.io/
+- ⚡ Feel free to visit my website -> https://zmizgalski.github.io/
 
-🎓Second github account [https://github.com/SoftDevPL](https://github.com/SoftDevPL)
+- 📄 Know about my experiences https://www.linkedin.com/in/zbigniew-mizgalski-951863236/
+
+- 🎓 Second github account [https://github.com/SoftDevPL](https://github.com/SoftDevPL)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100006773446012) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zbigniew-mizgalski-951863236/) 
