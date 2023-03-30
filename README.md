@@ -1,3 +1,4 @@
+# Hi 👋, I'm Zbigniew Mizgalski
 # 🔭 Currently working as Angular developer<br>
 - ⚡ Feel free to visit my website -> https://zmizgalski.github.io/
 - 📄 Know about my experiences https://www.linkedin.com/in/zbigniew-mizgalski-951863236/
