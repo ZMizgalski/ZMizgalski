@@ -6,9 +6,9 @@
 
 ###
 
-<h3 align="left">- 👨‍💻 All of my projects are available at [https://zmizgalski.github.io](https://zmizgalski.github.io)</h3>
+<h3 align="left">- 👨‍💻 All of my projects are available at https://zmizgalski.github.io(https://zmizgalski.github.io)</h3>
 
-<h3 align="left">- 📫 How to reach me **zbigniew.mizgalskifullstack@gmail.com**</h3>
+<h3 align="left">- 📫 How to reach me zbigniew.mizgalskifullstack@gmail.com</h3>
 
 ###
 
