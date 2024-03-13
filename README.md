@@ -1,20 +1,14 @@
-<h1 align="left">Hi 👋! My name is Zbigniew Mizgalski</h1>
-<h2 align="center">Frontend Developer</h2>
-
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zmizgalski&label=Profile%20views&color=0e75b6&style=flat" alt="zmizgalski" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://zmizgalski.github.io](https://zmizgalski.github.io)
-
-- 📫 How to reach me **zbigniew.mizgalskifullstack@gmail.com**
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zmizgalski&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zmizgalski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <h1>Hi 👋! My name is Zbigniew Mizgalski</h1>
+  <h2>Frontend Developer</h2>
+  <p> <img src="https://komarev.com/ghpvc/?username=zmizgalski&label=Profile%20views&color=0e75b6&style=flat" alt="zmizgalski" /> </p>
 </div>
+
+###
+
+<h3 align="left">- 👨‍💻 All of my projects are available at [https://zmizgalski.github.io](https://zmizgalski.github.io)</h3>
+
+<h3 align="left">- 📫 How to reach me **zbigniew.mizgalskifullstack@gmail.com**</h3>
 
 ###
 
@@ -72,6 +66,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zmizgalski&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zmizgalski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
