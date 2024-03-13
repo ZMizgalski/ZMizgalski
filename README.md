@@ -1,14 +1,17 @@
 <div align="left">
   <h1>Hi 👋! My name is Zbigniew Mizgalski</h1>
-  <h2>Frontend Developer</h2>
+  <h1>Frontend Developer</h1>
+  <br clear="both">
   <p> <img src="https://komarev.com/ghpvc/?username=zmizgalski&label=Profile%20views&color=0e75b6&style=flat" alt="zmizgalski" /> </p>
 </div>
 
 ###
 
-<h3 align="left">- 👨‍💻 All of my projects are available at https://zmizgalski.github.io(https://zmizgalski.github.io)</h3>
+- ✍️ LinkedIn [Link](https://pl.linkedin.com/in/zbigniew-mizgalski-951863236?trk=public_profile_browsemap)
+- 👨‍💻 All of my projects are available at https://zmizgalski.github.io
+- 📫 How to reach me zbigniew.mizgalskifullstack@gmail.com
 
-<h3 align="left">- 📫 How to reach me zbigniew.mizgalskifullstack@gmail.com</h3>
+<br clear="both">
 
 ###
 
@@ -84,8 +87,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zmizgalski/zmizgalski/output/snake.svg" alt="Snake animation" />
-
-###
